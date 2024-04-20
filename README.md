@@ -20,6 +20,7 @@ Double-click using Selenium WebDriver
 Chrome generated logs when selenium tests are run
 
 __Resource used for the project:__
+
 https://www.youtube.com/live/bhZX7apMqR8?si=4n0u5YiMuz5vTiHd&themeRefresh=1
 
 https://www.youtube.com/watch?v=uHLYoJmZxWc

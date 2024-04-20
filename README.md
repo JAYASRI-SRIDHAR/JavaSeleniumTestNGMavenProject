@@ -1,9 +1,9 @@
-**This Project was to Learn Java Selenium with TestNG using Maven as the build tool.
-**
-**Websites utilised for testing are: automationpractice.com, saucedemo.com, the-internet owasp-juice-shop and LambdaTest e-commerce Playground
-**
-**Scenarios Covered and learnt in this project:
-**
+__This Project was to Learn Java Selenium with TestNG using Maven as the build tool.__
+
+__Websites utilised for testing are: automationpractice.com, saucedemo.com, the-internet owasp-juice-shop and LambdaTest e-commerce Playground__
+
+__Scenarios Covered and learnt in this project:__
+
 Selection of values from a Table
 Ticking and unticking checkboxes using selenium
 Right-clicking using selenium
@@ -19,8 +19,7 @@ IFrames using Selenium
 Double-click using Selenium WebDriver
 Chrome generated logs when selenium tests are run
 
-**Resource used for the project:
-**
+__Resource used for the project:__
 https://www.youtube.com/live/bhZX7apMqR8?si=4n0u5YiMuz5vTiHd&themeRefresh=1
 
 https://www.youtube.com/watch?v=uHLYoJmZxWc
